@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: 
+title: repositories
 description: 
 nav: true
 nav_order: 4
@@ -9,7 +9,7 @@ nav_order: 4
 
 
 
-## GitHub popular repositories
+GitHub popular repositories
 
 {% if site.data.repositories.github_repos %}
 
