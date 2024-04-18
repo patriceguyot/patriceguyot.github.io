@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
-nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching at <a href="https://www.imt-mines-ales.fr/en" target=blank>IMT Mines Ales</a>:
 
-Organize your courses by years, topics, or universities, however you like!
+<ul>
+<li>music acoustics</li>
+<li>speech processing</li>
+<li>deep learning</li>
+<li>audio signal processing</li>
+<li>time series</li>
+<li>sound recording and editing</li>
+<li>audio HCI</li>
+</ul>
