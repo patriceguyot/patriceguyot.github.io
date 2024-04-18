@@ -5,6 +5,7 @@ description: Modeling temporal, rhythmic and social synchronization with spike n
 img: /assets/img/modpuls-doisneau.jpg
 importance: 1
 category: work
+related_publications: false
 ---
 
 

@@ -5,6 +5,7 @@ description: Bring XR to a radically new level of presence and sociality
 img: /assets/img/SHARESPACE.jpg
 importance: 1
 category: work
+related_publications: false
 ---
 
 

@@ -5,6 +5,7 @@ description:
 img: /assets/img/mrm.jpg
 importance: 1
 category: work
+related_publications: false
 ---
 
 The monitoring of migratory fish is essential to evaluate the state of the fish population in freshwater and follow its evolution. During spawning in rivers, some species of alosa produce a characteristic splash sound, called “bull”, that enables to perceive their presence.

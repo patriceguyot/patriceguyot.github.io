@@ -5,6 +5,7 @@ description:
 img: /assets/img/drum.jpg
 importance: 1
 category: work
+related_publications: false
 ---
 
 Automatic Drum Transcription (ADT) describes the process of transcribing audio files containing drum sounds into a musical representation indicating the onsets of each drum sound in the recording.

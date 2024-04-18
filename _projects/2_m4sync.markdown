@@ -5,6 +5,7 @@ description: Multi-scale Movement & Music Modeling for SYNChronization
 img: /assets/img/keersmaeker.jpg
 importance: 1
 category: work
+related_publications: false
 ---
 
 

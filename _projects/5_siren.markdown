@@ -5,6 +5,7 @@ description:
 img: /assets/img/siren.jpg
 importance: 1
 category: work
+related_publications: false
 ---
 
 
