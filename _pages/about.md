@@ -6,7 +6,7 @@ description: Associate professor in audio and information technology at IMT Mine
 
 profile:
   align: right
-  image: desktop.jpg #prof_pic.jpg
+  image: Ceze.jpg #prof_pic.jpg
   address: 
     <p>Perception In Action & Synchronization</p>
     <p>EuroMov DHM</p>
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## Associate professor in audio and information technology at IMT Mines Ales
+# Associate professor in audio and information technology at IMT Mines Ales
 
 Within the <b>Perception In Action & Synchronization</b> theme at <a href="https://dhm.euromov.eu/" target=blank>EuroMov Digital Health in Motion</a>, my current researches focus on sound / movements interactions.
 
