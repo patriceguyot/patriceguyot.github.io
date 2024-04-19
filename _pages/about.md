@@ -7,9 +7,9 @@ description: Associate professor in audio and information technology at IMT Mine
 profile:
   align: right
   image: desktop.jpg #prof_pic.jpg
-  address: >
+  address: 
     <p>Perception In Action & Synchronization</p>
-    <p>Euromov DHM</p>
+    <p>EuroMov DHM</p>
     <p></p>
     <p>IMT Mines Alès / </p>
     <p>Univ. Montpellier</p>
@@ -20,8 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Within the <b>Perception In Action & Synchronization</b> theme at <a href="https://dhm.euromov.eu/" target=blank>Euromov Digital Health in Motion</a>, my current researches focus on sound / movements interactions.
+Within the <b>Perception In Action & Synchronization</b> theme at <a href="https://dhm.euromov.eu/" target=blank>EuroMov Digital Health in Motion</a>, my current researches focus on sound / movements interactions.
 
-My past research activities include <b>indexation</b>, <b>analysis</b>, <b>synthesis</b> and <b>perception</b> of audio or audiovisual data.
+Other research activities include <b>indexation</b>, <b>analysis</b>, <b>synthesis</b> and <b>perception</b> of audio or audiovisual data.
 
 [//]: # Look at my projects to have an insight!
