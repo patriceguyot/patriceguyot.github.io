@@ -18,7 +18,6 @@ Automatic Drum Transcription (ADT) describes the process of transcribing audio f
 photo: John Seb Barber
 </div>
 
-
 This project is carried out in collaboration with <a href="https://drumstik.com" target=blank>Drumstik</a>, and aims at producing automatically a musical score from a real-time audio recording.
 
 <div class="row">
@@ -29,6 +28,5 @@ This project is carried out in collaboration with <a href="https://drumstik.com"
 <div class="caption">
 Drumstik application used with an electronic drum kit
 </div>
-
 
 For this application, I use a deep learning approach. This model compute a probability at all times that is use to know if some parts of the drum (snare, bass, hi-hat, etc.) are played.

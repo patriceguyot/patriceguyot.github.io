@@ -18,9 +18,7 @@ The monitoring of migratory fish is essential to evaluate the state of the fish 
  On spring nights, migratory fish produce splashes in rivers during spawning
  </div>
 
-
 The French Association Migrateurs Rhône Méditerranée provide an important effort to aurally count these bulls throughout the night from different sites on the river banks of the Rhone basin.
-
 
 In order to reduce the human costs and expand the scope of study, I propose a deep learning approach for audio event detection from recordings made from the river banks.
 

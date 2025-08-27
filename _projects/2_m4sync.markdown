@@ -7,7 +7,6 @@ importance: 1
 category: work
 ---
 
-
 In the context of sports and music, the interactions between human movements and music reveal different types of synchronization. These are illustrated, for example, by complex rhythmic relationships between cycles of respiration, cadence of movement and binary or ternary musical measures.
 
 <div class="row">
@@ -18,7 +17,6 @@ In the context of sports and music, the interactions between human movements and
 <div class="caption">
 Fase, Four Movements to the Music of Steve Reich - Anne Teresa De Keersmaeker
 </div>
-
 
 The M4Sync project aims at modeling these multi-scale synchronizations. This work will be based on a stage of data creation through experiments involving the capture of human movements and sound synthesis. It will be associated with experiences of perceiving synchronizations through sound and image. An improved understanding of synchronization mechanisms and their perception will allow us to produce computer bricks for the world of sports training and to consider applications in the health sector.
 

@@ -7,8 +7,7 @@ importance: 1
 category: work
 ---
 
-
-The border between humans and technology is blurring, and their close intertwining in everyday life will continue to increase. The most pressing challenge is to steer this reality transformation towards the creation of new opportunities for human-centric, safe, rewarding, and inclusive social interaction in this hybrid future. SHARESPACE’s radically new and unobtrusive XR technology will enable intuitive and intelligent interactions between humans and avatars, modelling embodied social behaviour in XR. Our functional multimodal-multisensory “social broadcasting” interface, combined with new knowledge and technology, will have a strong positive effect on future usages, enabling smooth, fun and transparent interaction with AI-agents. 
+The border between humans and technology is blurring, and their close intertwining in everyday life will continue to increase. The most pressing challenge is to steer this reality transformation towards the creation of new opportunities for human-centric, safe, rewarding, and inclusive social interaction in this hybrid future. SHARESPACE’s radically new and unobtrusive XR technology will enable intuitive and intelligent interactions between humans and avatars, modelling embodied social behaviour in XR. Our functional multimodal-multisensory “social broadcasting” interface, combined with new knowledge and technology, will have a strong positive effect on future usages, enabling smooth, fun and transparent interaction with AI-agents.
 
 <a href="https://sharespace.eu/" target=blank>https://sharespace.eu/</a>
 
@@ -19,5 +18,3 @@ The border between humans and technology is blurring, and their close intertwini
 </div>
 <div class="caption">
 </div>
-
-
