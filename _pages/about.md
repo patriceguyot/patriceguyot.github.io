@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 #### at IMT Mines Ales
 
-Within the <b>Perception In Action & Synchronization</b> theme at <a href="https://dhm.euromov.eu/" target=blank>EuroMov Digital Health in Motion</a>, my current researches focus on sound / movements interactions.
+Within the <b>Perception, InterAction, Synchronisation & Signal</b> (PIAS2) theme at <a href="https://dhm.euromov.eu/" target=blank>EuroMov Digital Health in Motion</a>, my current researches focus on sound / movements interactions.
 
 Other research activities include <b>indexation</b>, <b>analysis</b>, <b>synthesis</b> and <b>perception</b> of audio or audiovisual data.
 
