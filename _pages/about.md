@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Associate professor in audio and information technology at IMT Mines Ales.
+description: Associate professor in audio and information technology.
 
 profile:
   align: right
@@ -21,8 +21,6 @@ social: true # includes social icons at the bottom of the page
 #### Associate professor in audio
 
 #### and information technology
-
-#### at IMT Mines Ales
 
 Within the <b>Perception, InterAction, Synchronisation & Signal</b> (PIAS2) theme at <a href="https://dhm.euromov.eu/" target=blank>EuroMov Digital Health in Motion</a>, my current researches focus on sound / movements interactions.
 
